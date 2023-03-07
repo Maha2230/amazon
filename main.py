@@ -1,5 +1,6 @@
 # this my first change
 #this is my second change
+print(hellow word)
 thislist = ["apple", "banana", "cherry", "apple", "cherry"]
 
 print(thislist)
